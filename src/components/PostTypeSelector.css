@@ -1,0 +1,23 @@
+.post-type-selector {
+  display: flex;
+  gap: 10px;
+  /* margin-bottom: 20px; */
+  margin-left: -1100px;
+}
+
+.post-type-selector p{
+  margin-top: -2px;
+}
+
+.inputs{
+  margin-top: -9px;
+  display: flex;
+  margin-left: 1010px;
+  min-width: 1000px;
+}
+
+
+
+.post-type-selector input {
+  margin-top: -30px;
+}
